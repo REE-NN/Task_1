@@ -1,0 +1,14 @@
+Task 4: Change remotes
+
+Description
+
+Steps
+
+This task is performed immediately after the one it depends on
+
+    +Make a push of your repository and make sure all commits are on GitHub.
+    +Make a new repository on GitHub.
+    +Change the remote repository into the local one so that fetch and push come to the new repository that was created in the previous step.
+    +Make a push and make sure the second repository on GitHub looks the same as the first.
+    +Return the remote settings to their initial state: pull and push of the first local repository lead to one remote repository on Github.
+
